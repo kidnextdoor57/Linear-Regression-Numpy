@@ -151,7 +151,7 @@ Building this from scratch forced a deep understanding of:
 
 ## Author
 
-**HPG3**
+**kidnextdoor57**
 Built as part of a machine learning fundamentals study project.
 
 *If this helped you understand linear regression better, consider giving it a star ⭐*
